@@ -1,4 +1,4 @@
-# Protingas-dietologas-i-aldytuvo
+# Protingas-dietologas-is-saldytuvo
 ai darbas
 [README.md](https://github.com/user-attachments/files/35216024/README.md)
 # Protingas dietologas iš šaldytuvo
