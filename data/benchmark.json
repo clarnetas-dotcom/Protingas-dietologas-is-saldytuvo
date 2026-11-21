@@ -1,0 +1,7 @@
+{
+  "runs": 60,
+  "p50_ms": 47.29,
+  "p95_ms": 57.37,
+  "max_ms": 61.99,
+  "scope": "Python recommend() CPU; be Streamlit UI ir tinklo; priklauso nuo kompiuterio"
+}
